@@ -1,10 +1,12 @@
 .top {
-    font-size: 48px;
     text-align: center;
 }
 .top img {
     height: 250px;
     width: 400px;
+}
+h1 {
+    font-size: 48px;
 }
 #one {
     color: rgb(11, 29, 81);
@@ -46,6 +48,7 @@
 }
 li > h1 {
     color:rgb(143, 119, 0);
+    font-size: 30px;
 }
 table {
     background-color: rgb(166, 216, 225)
