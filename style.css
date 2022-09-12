@@ -1,3 +1,54 @@
-h1 {
-    color: red;
+.top {
+    font-size: 48px;
+    text-align: center;
+}
+.top img {
+    height: 250px;
+    width: 400px;
+}
+#one {
+    color: rgb(11, 29, 81);
+}
+#seven {
+    color: rgb(13, 72, 13);
+}
+#ten {
+    color: rgb(83, 13, 13);
+}
+#ninetyeight {
+    color: rgb(170, 90, 4);
+}
+#xp {
+    color: rgb(56, 15, 56);
+}
+.onebody {
+    background-color: rgb(113, 97, 195);
+}
+.sevenbody {
+    background-color:rgb(83, 156, 83);
+}
+.tenbody {
+    background-color:rgb(161, 92, 92);
+}
+.ninetyeightbody {
+    background-color:rgb(192, 118, 65);
+}
+.xpbody {
+    background-color: rgb(139, 89, 139);
+}
+.homebody {
+    background-color:rgb(227, 207, 109);
+}
+li > h1 {
+    color:rgb(143, 119, 0);
+}
+table {
+    background-color: rgb(166, 216, 225)
+}
+
+td {
+    color: rgb(191, 97, 143);
+}
+th > a{
+    color:rgb(167, 50, 106)
 }
